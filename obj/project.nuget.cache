@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxQW9l/tZK6c9jTvpzrkRjgh/R/N1VrpeHP4I7fpJwviWfWXrWRsOlt6+kKmiQ1mPa5MWUUIDHw3tsdFtQF5SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Larissw\\Desktop\\Tamagotchi\\Tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larissw\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
